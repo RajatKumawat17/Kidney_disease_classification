@@ -1,1 +1,7 @@
 [2023-10-09 17:09:53,156: INFO: main: Hello World!]
+[2023-10-10 23:08:19,626: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-10 23:08:19,633: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-10 23:08:19,635: INFO: common: created directory at: artifacts]
+[2023-10-10 23:08:19,637: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-10 23:08:19,639: INFO: 986331348: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2023-10-10 23:08:37,984: INFO: 986331348: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
